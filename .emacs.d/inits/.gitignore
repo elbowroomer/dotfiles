@@ -1,0 +1,4 @@
+*
+!*.el
+!.gitignore
+99_local-init-load.el
